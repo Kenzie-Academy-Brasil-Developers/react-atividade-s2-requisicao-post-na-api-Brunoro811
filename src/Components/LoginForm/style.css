@@ -1,0 +1,14 @@
+.Row-Input {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.Error {
+  color: #a52a2a;
+}
+.Success {
+  color: green;
+}
